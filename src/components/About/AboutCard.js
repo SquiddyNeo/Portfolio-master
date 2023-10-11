@@ -9,6 +9,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
+          <Type2 /> 
           <div style={{ padding: 20, textAlign: "left" }}>
                 <p className="about-activity">
                   My name is Thai-Dion Virginia i have been a self taught Full stack developer and have been doing web development for about 2 years now 
@@ -17,7 +18,7 @@ function AboutCard() {
                   if you have any more question feel free to <link href="/contact"contact></link> me  
                 
                 </p>
-                <Type2 /> 
+               
               </div>
             <li className="about-activity">
               <ImPointRight /> Playing Games

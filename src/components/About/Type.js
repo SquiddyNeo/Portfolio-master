@@ -5,12 +5,13 @@ function Type2() {
       <Typewriter classname="Type2"
       options={{
         strings:[
-          "Hi My Name is Thai-Dion Virginia Your Go-to Website Developer ",
+          "Thai-Dion Virginia Your Go-to Website Developer ",
           
           
         ],
                autoStart: true,
                pauseFor:300000000,
+               delay: 2, 
          }}
       />
     );
